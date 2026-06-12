@@ -1,0 +1,41 @@
+# Geotechnicalengineering1 — Tacoma
+
+> Geotechnical engineering services in Tacoma, United States.
+
+## Services
+- [Anchors](https://tacoma.geotechnicalengineering1.org/anchors/)
+- [Cbr Road](https://tacoma.geotechnicalengineering1.org/cbr-road/)
+- [Excavation Monitoring](https://tacoma.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://tacoma.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://tacoma.geotechnicalengineering1.org/flexible-pavement/)
+- [Foundations](https://tacoma.geotechnicalengineering1.org/foundations/)
+- [Geophysics](https://tacoma.geotechnicalengineering1.org/geophysics/)
+- [Grain Size](https://tacoma.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://tacoma.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://tacoma.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://tacoma.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://tacoma.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://tacoma.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://tacoma.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://tacoma.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://tacoma.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://tacoma.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://tacoma.geotechnicalengineering1.org/piles/)
+- [Plate Load Test](https://tacoma.geotechnicalengineering1.org/plate-load-test/)
+- [Rigid Pavement](https://tacoma.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://tacoma.geotechnicalengineering1.org/road-geotechnics/)
+- [Seismic](https://tacoma.geotechnicalengineering1.org/seismic/)
+- [Seismic Refraction](https://tacoma.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://tacoma.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://tacoma.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://tacoma.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Stone Columns](https://tacoma.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://tacoma.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://tacoma.geotechnicalengineering1.org/triaxial/)
+
+## Contact
+- Website: https://tacoma.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Tacoma, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
